@@ -10,16 +10,15 @@ import java.io.Reader;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 /**
- *
- * @author Chuck
+ * Clase que implementa la interfaz que acepta la gramatica
+ * correspondiente
+ * @author Carlos Alberto Ramirez Longoria Matricula:245223 
+ *         Luis Alberto Maldonado Vargas Matricula:245360
  */
+
 public class Interfaz extends javax.swing.JFrame {
 
     /**
